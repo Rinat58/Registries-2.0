@@ -1,4 +1,6 @@
 # Registries-2.0
+WARNING!!!
+Shit code!!!
 
 *this program is useless, created it to test your acquired skills.
 The program allows you to create lists of registries in which you can store any data and save them on a PC.
